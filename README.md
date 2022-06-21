@@ -36,10 +36,10 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Firebase" alt="Firebase" width="40px" src="https://i.ibb.co/gJr4Cbk/pngaaa-com-1100998.png">|<img title="JWT" alt="JWT" width="40px" src="https://i.ibb.co/6NHRxBz/png-transparent-security-token-json-web-token-access-token-representational-state-transfer-others-mi.png">|<img title="Chrome dev-tool" alt="Chrome dev-tool" width="40px" src="https://i.ibb.co/ZKBMt1w/google-developers-icon.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 |--|--|--|--|--|
 <br>
-<!-- 
+
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=tofayel101&show_icons=true&theme=radical"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=tofayel101&show_icons=true&theme=radical"> 
 
 
 <br>
